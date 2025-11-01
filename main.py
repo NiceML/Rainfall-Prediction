@@ -3,7 +3,7 @@ from src.data_Ingestion.dowload_data import download_data_from_github
 
 
 def main():
-    # download_data_from_github()
+    download_data_from_github()
 
     extract_raw_data()
 
